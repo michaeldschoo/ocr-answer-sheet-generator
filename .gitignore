@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+
+# Outputs
+output/
+*.pdf
+!ANS 4 Choices.pdf
+
+# OS
+.DS_Store
+Thumbs.db
